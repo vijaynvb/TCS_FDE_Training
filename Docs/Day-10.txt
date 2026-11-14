@@ -27,3 +27,24 @@
     ``` what ever is generated is ignored
 
 8. streaming response
+
+    question -> 10 seconds -> llm from -> 
+
+    client.messages.create(stream=true, thinking={})
+    rs = client.messages.stream()
+    pubsub
+
+    message = [
+        use
+        assistant
+        contentstart
+        delta
+        contentstop
+    ]
+
+9. prompt templates
+
+10. prompt evaluation 
+
+11. prompt engg
+
