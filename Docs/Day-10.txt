@@ -42,9 +42,18 @@
         contentstop
     ]
 
-9. prompt templates
+9. prompt templates [not in exam]
 
 10. prompt evaluation 
+    1. Human -> AWS -> 
+        golden data set [input prompt, expected output] -> human, validated by human
+    2. Code evaluation -> code for comparison -> apple to apple if switch -> measure
+        json xml output format
+        validation framework [xml scheam] regex
+    3. Model evaluation -> semantic comparison -> intent -> measure
+        write a positive review on a given product -> expected ouput is positive intent -> product is excelent, product is wonderfull
+        llm model -> intent of the output 0-1
+        llm models
 
 11. prompt engg
 
