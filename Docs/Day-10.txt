@@ -12,6 +12,18 @@
 
 
 7. structured data
-    output indicator = json, xml, form -> class
+    output indicator = json, xml, form -> prefill and stop sequence 
+
+    mesasges = [
+        {"role": "user", "content":""},
+        {"role":"assitant", "content":"```json"},
+    ]
+
+    ```json 
+    {
+        "name": "vijay",
+        "place": "bangalore",
+    }
+    ``` what ever is generated is ignored
 
 8. streaming response
