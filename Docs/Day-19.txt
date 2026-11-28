@@ -1,0 +1,9 @@
+
+
+1. Discussion on the Project
+2. Langsmith 
+    Agentic Loop : traces
+    UI -> loggers
+        graphana prometheous
+3. Model Finetuning
+
